@@ -2,7 +2,7 @@
 Hii I'm Mannu Garg from India , currently I'm a student of Information Technology (CSE)
 
 ## Skills:
-* 🖥️ C /C++ /HTML /CSS /JAVASCRIPT
+* 🖥️ C /C++ /HTML /CSS /JAVASCRIPT/SQL/Power BI
 * ⌨️ Problem Solving / DSA 
 
 
